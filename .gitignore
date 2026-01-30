@@ -1,0 +1,29 @@
+# --- PRIVATE ASSETS ---
+video/
+
+# --- VS CODE SPECIFIC ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- ARDUINO UNO R4 & IDE ---
+build/
+bin/
+*.hex
+*.elf
+*.bin
+*.map
+*.dfu
+*.lst
+
+# --- OPERATING SYSTEM ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# --- OTHERS ---
+# Eventuali file di log o pacchetti scaricati
+*.log
+node_modules/
