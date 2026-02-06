@@ -17,7 +17,7 @@ The complete build and demonstration are available on Odysee:
 ## Technical Details
 * **Target Hardware:** Arduino UNO R4 WiFi
 * **Active Components:** * **4x Red LEDs** (External).
-    * **4x 1000Ω Resistors**: Selected to provide optimal brightness while keeping current within safe operating limits.
+    * **4x 1000Ω Resistors**: High-value resistors chosen for safety and low current draw (approx. 3.2mA per pin).
 * **Connections:** Digital Pins 2, 3, 4, 5 and GND.
 
 ## Logic & Software Architecture

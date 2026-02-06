@@ -9,7 +9,7 @@ The project serves as a technical record of source code and solutions to the hom
 ## 🛠️ Hardware Stack
 - **Board:** Arduino UNO R4 WiFi (Renesas RA4M1)
 - **Primary Editor:** VS Code / Arduino IDE 2.x
-- **Components:** Various (LEDs, Resistors, Sensors as per lesson requirements)
+- **Components:** A diverse range of hardware including discrete components (LEDs, resistors), actuators (motors, drivers), and sensors, integrated according to specific lesson requirements.
 
 ---
 
@@ -22,6 +22,8 @@ The project serves as a technical record of source code and solutions to the hom
 | 002a | [How to Build Circuits With a Breadboard](https://www.youtube.com/watch?v=S1NJJRpWHpA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=2) | [📁 SOS-Morse-Code](./2-SOS-Morse-Code/) | ✅ |
 | 002b | [Calculating Current Limiting Resistor for LED](https://www.youtube.com/watch?v=_kpiHFGB_ys&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=3) | [📁 SOS-Morse-Code](./2-SOS-Morse-Code/) | ✅ |
 | 003 | [Blink an LED With the Arduino](https://www.youtube.com/watch?v=0SENIWPdPhQ&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=4) | [📁 Blinking-4-LEDs](./3-Blinking-4-LEDs/) | ✅ |
+| 004 | [Building Clean and Neat Circuits on a Breadboard](https://www.youtube.com/watch?v=JUptf53Ni0A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=5) | [📁 Blinking-4-LEDs](./3-Blinking-4-LEDs/) | ✅ |
+| 005 | [Explaining How Computers Work Based On Binary Numbers](https://www.youtube.com/watch?v=cSOpMpynXAI&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=6) | [📁 Binary-Counter](./5-Binary-Counter/) | ✅ |
 | ... | ... | ... | ... |
 
 *Legend: ✅ Completed | 🟡 In Progress | ⏳ To Do*
