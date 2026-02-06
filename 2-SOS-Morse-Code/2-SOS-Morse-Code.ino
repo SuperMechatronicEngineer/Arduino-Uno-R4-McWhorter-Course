@@ -1,6 +1,6 @@
 /*
  * Project: SOS Distress Signal
- * Lesson: How to Build Circuits With a Breadboard - Lesson 2
+ * Lesson: Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
  * Revision: 1.0 - Initial Release
  * Date: 2026-01-28
  * License: CC BY-NC-SA 4.0

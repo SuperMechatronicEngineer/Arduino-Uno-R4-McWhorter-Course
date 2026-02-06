@@ -2,7 +2,7 @@
 
 ## Project Info
 - **Project Name:** Fast LED Blinking
-- **Lesson:** [Arduino Uno R4 Lesson 1](https://www.youtube.com/watch?v=S1NJJRpWHpA) by Paul McWhorter
+- **Lesson:** [Arduino Uno R4 Wifi LESSON 1: Getting Started for Absolute Beginners](https://www.youtube.com/watch?v=S66Iwhk2V7A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=1) by Paul McWhorter
 - **Revision:** 1.0 (Initial Release)
 - **Date:** 2026-01-28
 - **Author:** SuperMechatronicEngineer

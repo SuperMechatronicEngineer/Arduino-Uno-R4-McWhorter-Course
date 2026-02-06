@@ -2,7 +2,7 @@
 
 ## Project Info
 - **Project Name:** SOS Distress Signal
-- **Lesson:** [Arduino Uno R4 Lesson 2](https://www.youtube.com/watch?v=S1NJJRpWHpA) by Paul McWhorter
+- **Lesson:** [Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard](https://www.youtube.com/watch?v=S1NJJRpWHpA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=2) by Paul McWhorter
 - **Revision:** 1.0 (Initial Release)
 - **Date:** 2026-01-28
 - **Author:** SuperMechatronicEngineer
@@ -12,13 +12,13 @@ This project implements the international distress signal **SOS** (`... --- ...`
 
 ## 📺 Video Documentation
 The complete build and demonstration are available on Odysee:
-- **Watch here:** [Arduino UNO R4 SOS](https://odysee/@SuperMechatronicEngineer:8/Arduino-UNO-R4-SOS:5?r=BPrXVvEkYtt5G2X6G8NsWVkY2qgQxn1P)
+- **Watch here:** [Arduino UNO R4 WiFi - SOS - Morse Code](https://odysee.com/@SuperMechatronicEngineer:8/Arduino-UNO-R4-SOS:5)
 
 ## Technical Details
 * **Target Hardware:** Arduino UNO R4 WiFi
 * **Active Component:** * **Red LED** (External).
     * **1kΩ Resistor**: A conservative choice to ensure the current remains well below the **8mA** digital pin limit, providing a safety margin for the Renesas RA4M1 microcontroller.
-* **Connection:** Digital Pin 2 (Anode) and GND (Cathode).
+* **Connection:** Digital Pin 2 and GND.
 
 ## Electrical Calculations
 To verify the safety of the circuit, we apply Ohm's Law:
@@ -38,6 +38,5 @@ The signal is based on a "dot" duration of **100ms**. All other intervals are ca
 * **Word Pause**: $7 \times \text{dot}$
 
 ## License & Credits
-- **Original Tutorial:** Paul McWhorter (TopTechBoy)
-- **Music:** "Background Music" by Dmitrii Spis (NastelBom) via Pixabay.
+- **Original Tutorial:** Paul McWhorter (TopTechBoy).
 - **License:** This project is licensed under [CC BY-NC-SA 4.0](../../LICENSE) (Attribution-NonCommercial-ShareAlike).
