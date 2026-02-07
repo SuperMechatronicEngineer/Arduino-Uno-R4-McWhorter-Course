@@ -1,25 +1,25 @@
-# Lesson 005 Homework: 4-Bit Binary Counter
+# Lesson 006 Homework: 5-Bit Binary Counter
 
 ## Project Info
-- **Project Name:** 4-Bit Binary Counter
-- **Lesson:** [Arduino Uno R4 WiFi LESSON 5: Explaining How Computers Work Based On Binary Numbers](https://www.youtube.com/watch?v=cSOpMpynXAI&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=6) by Paul McWhorter
+- **Project Name:** 5-Bit Binary Counter
+- **Lesson:** [Arduino Uno R4 WiFi LESSON 6: Create a Binary Counter With Arduino](https://www.youtube.com/watch?v=KEtut8pzXZA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=8) by Paul McWhorter
 - **Revision:** 1.0 (Initial Release)
-- **Date:** 2026-02-06
+- **Date:** 2026-02-07
 - **Author:** SuperMechatronicEngineer
 
 ## Project Description
-This project implements a **4-bit binary counter** using an array of 4 LEDs. The system visualizes how decimal integers (0-15) are represented in binary form within a computer's memory. By using bitwise manipulation, the code translates the state of each individual bit directly to a corresponding physical LED.
+This project implements a **5-bit binary counter** using an array of 5 LEDs. The system visualizes how decimal integers (0-31) are represented in binary form within a computer's memory. By expanding the hardware to a 5-LED array, the project demonstrates the scalability of bitwise logic, mapping the internal state of an integer directly to the physical output without changing the core software architecture.
 
 ## 📺 Video Documentation
 The complete build and demonstration are available on Odysee:
-- **Watch here:** [Arduino UNO R4 WiFi - 4-bit Binary Counter](https://odysee.com/@SuperMechatronicEngineer:8/Arduino-UNO-R4-Binary-Counter:e)
+- **Watch here:** [Arduino UNO R4 WiFi - 5-bit Binary Counter](https://odysee.com/@SuperMechatronicEngineer:8/Arduino-UNO-R4-5-bit-Binary-Counter:0)
 
 ## Technical Details
 * **Target Hardware:** Arduino UNO R4 WiFi
 * **Active Components:** 
-    * **4x Red LEDs** (External).
-    * **4x 1000Ω Resistors**: High-value resistors chosen for safety and low current draw (approx. 3.2mA per pin).
-* **Connections:** Digital Pins 2, 3, 4, 5 and GND.
+    * **5x Red LEDs** (External).
+    * **5x 1000Ω Resistors**: High-value resistors chosen for safety and low current draw (approx. 3.2mA per pin).
+* **Connections:** Digital Pins 2, 3, 4, 5, 6 and GND.
 
 ## Logic & Software Architecture
 The software is designed for scalability and memory integrity:
