@@ -26,6 +26,7 @@ The project serves as a technical record of source code and solutions to the hom
 | 005 | [Explaining How Computers Work Based On Binary Numbers](https://www.youtube.com/watch?v=cSOpMpynXAI&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=6) | [📁 4-bit Binary Counter](./5-Binary-Counter/) | ✅ |
 | 006 | [Create a Binary Counter With Arduino](https://www.youtube.com/watch?v=KEtut8pzXZA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=9) | [📁 5-bit Binary Counter](./6-Binary-Counter-5-bit/) | ✅ |
 | 007 | [Doing Math in Binary](https://www.youtube.com/watch?v=w1C3OT1V3xA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=8) | 📖 | ✅ |
+| 008 | [Using Variables in Arduino](https://www.youtube.com/watch?v=Ucvwq5hFc3U&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=9) | [📁 2-LEDs Variables](./8-2-LEDs-blink/) | ✅ |
 | ... | ... | ... | ... |
 
 *Legend: ✅ Completed | 📖 Theory/No Code | 🟡 In Progress | ⏳ To Do*
