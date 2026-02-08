@@ -1,6 +1,6 @@
 /*
  * Project: Fast LED blinking
- * Lesson:  Getting Started for Absolute Beginners - Lesson 1
+ * Lesson:  Arduino Uno R4 Wifi LESSON 1: Getting Started for Absolute Beginners
  * Revision: 1.0 - Initial Release
  * Date: 2026-01-28
  * License: CC BY-NC-SA 4.0

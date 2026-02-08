@@ -1,6 +1,6 @@
 /*
  * Project: Simultaneous Blinking LEDs
- * Lesson:  Arduino Uno R4 Wifi LESSON 3 (Variant)
+ * Lesson:  Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
  * Revision: 1.0 - Initial Release
  * Date: 2026-02-08
  * License: CC BY-NC-SA 4.0

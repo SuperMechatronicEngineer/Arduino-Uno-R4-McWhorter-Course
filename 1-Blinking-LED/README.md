@@ -1,4 +1,4 @@
-# Lesson 001: Internal LED Blink
+# Lesson 001 Homework: Internal LED Blink
 
 ## Project Info
 - **Project Name:** Fast LED Blinking

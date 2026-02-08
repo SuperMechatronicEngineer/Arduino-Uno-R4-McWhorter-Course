@@ -16,7 +16,8 @@ The complete build and demonstration are available on Odysee:
 
 ## Technical Details
 * **Target Hardware:** Arduino UNO R4 WiFi
-* **Active Component:** * **Red LED** (External).
+* **Active Component:** 
+    * **Red LED** (External).
     * **1kΩ Resistor**: A conservative choice to ensure the current remains well below the **8mA** digital pin limit, providing a safety margin for the Renesas RA4M1 microcontroller.
 * **Connection:** Digital Pin 2 and GND.
 

@@ -1,14 +1,14 @@
-# Lesson 003 Homework: Bidirectional LED Sequencer (Knight Rider)
+# Lesson 004 Homework: Bidirectional LED Sequencer (Knight Rider)
 
 ## Project Info
 - **Project Name:** Knight Rider LED Effect
-- **Lesson:** [Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino](https://www.youtube.com/watch?v=0SENIWPdPhQ&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=4) by Paul McWhorter
+- **Lesson:** [Arduino Uno R4 Wifi LESSON 4: Building Clean and Neat Circuits on a Breadboard](https://www.youtube.com/watch?v=JUptf53Ni0A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=5) by Paul McWhorter
 - **Revision:** 1.0 (Initial Release)
 - **Date:** 2026-02-06
 - **Author:** SuperMechatronicEngineer
 
 ## Project Description
-This project implements a bidirectional LED sequencer, commonly known as the **"Knight Rider"** or "Supercar" effect. Building upon the single-LED circuit from Lesson 2, this system expands to a multiple-output array. The primary objective is to demonstrate efficient pin management using **arrays** and to implement optimized control logic through iterative loops.
+This project implements a bidirectional LED sequencer, commonly known as the **"Knight Rider"** or "Supercar" effect. This project is a further development of my Lesson 3 homework from Paul McWhorter's 'Arduino Uno R4 WiFi' series. Based on the foundation of the 4-LED simultaneous blink exercise, I expanded the logic to implement a sequential, back-and-forth scanning effect. This demonstrates a more advanced application of **array indexing** to handle individual LED timing.
 
 ## 📺 Video Documentation
 The complete build and demonstration are available on Odysee:
@@ -16,7 +16,8 @@ The complete build and demonstration are available on Odysee:
 
 ## Technical Details
 * **Target Hardware:** Arduino UNO R4 WiFi
-* **Active Components:** * **4x Red LEDs** (External).
+* **Active Components:** 
+    * **4x Red LEDs** (External).
     * **4x 1000Ω Resistors**: High-value resistors chosen for safety and low current draw (approx. 3.2mA per pin).
 * **Connections:** Digital Pins 2, 3, 4, 5 and GND.
 
