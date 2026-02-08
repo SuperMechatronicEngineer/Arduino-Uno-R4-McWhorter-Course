@@ -18,13 +18,13 @@ The project serves as a technical record of source code and solutions to the hom
 
 | Lesson | Video Topic (YouTube) | Local Project | Status |
 | :---: | :--- | :--- | :---: |
-| 001 | [Getting Started for Absolute Beginners](https://www.youtube.com/watch?v=S66Iwhk2V7A) | [📁 Blinking-LED](./1-Blinking-LED/) | ✅ |
-| 002a | [How to Build Circuits With a Breadboard](https://www.youtube.com/watch?v=S1NJJRpWHpA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=2) | [📁 SOS-Morse-Code](./2-SOS-Morse-Code/) | ✅ |
+| 001 | [Getting Started for Absolute Beginners](https://www.youtube.com/watch?v=S66Iwhk2V7A) | [📁 Blinking LED](./1-Blinking-LED/) | ✅ |
+| 002a | [How to Build Circuits With a Breadboard](https://www.youtube.com/watch?v=S1NJJRpWHpA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=2) | [📁 SOS Morse Code](./2-SOS-Morse-Code/) | ✅ |
 | 002b | [Calculating Current Limiting Resistor for LED](https://www.youtube.com/watch?v=_kpiHFGB_ys&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=3) | 📖 | ✅ |
-| 003 | [Blink an LED With the Arduino](https://www.youtube.com/watch?v=0SENIWPdPhQ&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=4) | [📁 Blinking-4-LEDs](./3-Blinking-4-LEDs/) | ✅ |
-| 004 | [Building Clean and Neat Circuits on a Breadboard](https://www.youtube.com/watch?v=JUptf53Ni0A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=5) | [📁 Blinking-4-LEDs](./3-Blinking-4-LEDs/) | ✅ |
-| 005 | [Explaining How Computers Work Based On Binary Numbers](https://www.youtube.com/watch?v=cSOpMpynXAI&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=6) | [📁 Binary-Counter](./5-Binary-Counter/) | ✅ |
-| 006 | [Create a Binary Counter With Arduino](https://www.youtube.com/watch?v=KEtut8pzXZA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=9) | [📁 Binary-Counter](./6-Binary-Counter-5-bit/) | ✅ |
+| 003 | [Blink an LED With the Arduino](https://www.youtube.com/watch?v=0SENIWPdPhQ&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=4) | [📁 4-LEDs Blink](./3-Blinking-4-LEDs/) | ✅ |
+| 004 | [Building Clean and Neat Circuits on a Breadboard](https://www.youtube.com/watch?v=JUptf53Ni0A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=5) | [📁 Knight Rider](./4-Knight-Rider-4-LEDs/) | ✅ |
+| 005 | [Explaining How Computers Work Based On Binary Numbers](https://www.youtube.com/watch?v=cSOpMpynXAI&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=6) | [📁 4-bit Binary Counter](./5-Binary-Counter/) | ✅ |
+| 006 | [Create a Binary Counter With Arduino](https://www.youtube.com/watch?v=KEtut8pzXZA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=9) | [📁 5-bit Binary Counter](./6-Binary-Counter-5-bit/) | ✅ |
 | 007 | [Doing Math in Binary](https://www.youtube.com/watch?v=w1C3OT1V3xA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=8) | 📖 | ✅ |
 | ... | ... | ... | ... |
 
