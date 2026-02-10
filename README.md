@@ -29,6 +29,7 @@ The project serves as a technical record of source code and solutions to the hom
 | 008 | [Using Variables in Arduino](https://www.youtube.com/watch?v=Ucvwq5hFc3U&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=9) | [📁 2-LEDs Variables](./8-2-LEDs-blink/) | ✅ |
 | 009 | [Using the Serial Port to Print to the Serial Monitor](https://www.youtube.com/watch?v=4N-Q28lTzqE&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=11) | [📁 LED Status](./9-Serial-Monitor/) | ✅ |
 | 010 | [Writing Analog Voltages With the Arduino](https://www.youtube.com/watch?v=lTzOvBYNo3U&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=11) | [📁 LED Breathing Effect](./10-Analog-Voltage-LED/) | ✅ |
+| 011 | [Pulse Width Modulation (PWM) Simulation of Analog Voltages](https://www.youtube.com/watch?v=4QUH5D_6XVc&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=13) | 📖 | ✅ |
 | ... | ... | ... | ... |
 
 *Legend: ✅ Completed | 📖 Theory/No Code | 🟡 In Progress | ⏳ To Do*
