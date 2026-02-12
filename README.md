@@ -31,6 +31,7 @@ The project serves as a technical record of source code and solutions to the hom
 | 010 | [Writing Analog Voltages With the Arduino](https://www.youtube.com/watch?v=lTzOvBYNo3U&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=11) | [📁 LED Breathing Effect](./10-Analog-Voltage-LED/) | ✅ |
 | 011 | [Pulse Width Modulation (PWM) Simulation of Analog Voltages](https://www.youtube.com/watch?v=4QUH5D_6XVc&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=13) | 📖 | ✅ |
 | 012 | [Arduino Uno R4 WiFi LESSON 12: Read Analog Voltages on the Arduino](https://www.youtube.com/watch?v=Vp5u_8KAzFw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=13) | [📁 LED Analog Voltage](./12-Read-Analog-Voltage-LED/) | ✅ |
+| 013 | [Arduino Uno R4 WiFi LESSON 13: Dimmable LED Controlled by a Potentiometer](https://www.youtube.com/watch?v=PXf51k0alGU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=15) | [📁 Linear vs Exponential LED Control](./13-LED-Lin-vs-Exp/) | ✅ |
 | ... | ... | ... | ... |
 
 *Legend: ✅ Completed | 📖 Theory/No Code | 🟡 In Progress | ⏳ To Do*
