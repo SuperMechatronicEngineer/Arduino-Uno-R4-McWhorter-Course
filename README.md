@@ -1,10 +1,22 @@
 # 🦾 My Homework & Progress following the "All New Arduino R4 WiFi" YT course by Paul McWhorter
 
-This repository contains a systematic log of my progress through the **Arduino UNO R4 for Beginners** course, created by **Paul McWhorter**. This comprehensive educational series is available for **free** on his [YouTube Channel](https://www.youtube.com/@PaulMcWhorter).
+This repository is a comprehensive collection of my personal solutions to the homework assignments proposed throughout the course.
 
-The project serves as a technical record of source code and solutions to the homework assignments proposed in each lesson.
+## 🚀 Repository Goals
+* **Project Implementation:** Tracking my progress through the source code for each of Paul McWhorter's lessons.
+* **Problem Solving:** Tackling the specific hardware and software challenges proposed by Paul McWhorter through the capabilities of the Arduino UNO R4.
+* **Progression:** Documenting the evolution from basic circuit control to advanced hardware integration.
+
+## 🎯 About the Course
+This course is designed for absolute beginners, with a "step-by-step" approach to ensure no one is left behind. The tutorial series aims to take students from zero to hero, building a solid foundation in electronics and programming with the Arduino UNO R4.
+
+* **Instructor:** [Paul McWhorter](https://toptechboy.com/)
+* **Instructor YouTube:** [@PaulMcWhorter](https://www.youtube.com/@PaulMcWhorter)
+* **Platform:** [YouTube](https://youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&si=s21hArhuZtxQ1ZNM) (Free Course)
 
 **Note on implementation:** While these projects are inspired by the course assignments, the solutions provided here do not strictly follow the tutorials. Leveraging my **prior background in C++ programming**, I have intentionally customized the logic and architecture of each sketch. My goal is to use the course prompts as a creative starting point to explore advanced coding practices and modular system design within the Arduino environment.
+
+---
 
 ## 🛠️ Hardware Stack
 - **Board:** Arduino UNO R4 WiFi (Renesas RA4M1)
@@ -34,7 +46,11 @@ The project serves as a technical record of source code and solutions to the hom
 | 013 | [Arduino Uno R4 WiFi LESSON 13: Dimmable LED Controlled by a Potentiometer](https://www.youtube.com/watch?v=PXf51k0alGU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=15) | [📁 Linear vs Exponential LED Control](./13-LED-Lin-vs-Exp/) | ✅ |
 | ... | ... | ... | ... |
 
-*Legend: ✅ Completed | 📖 Theory/No Code | 🟡 In Progress | ⏳ To Do*
+### 🔑 Legend
+* ✅ **Completed**: Project is finished and code is optimized.
+* 📖 **Theory/No Code**: Theoretical module or documentation without practical code implementation.
+* 🟡 **In Progress**: Code is being written or currently in testing.
+* ⏳ **To Do**: Planned module according to the course curriculum.
 
 ---
 
