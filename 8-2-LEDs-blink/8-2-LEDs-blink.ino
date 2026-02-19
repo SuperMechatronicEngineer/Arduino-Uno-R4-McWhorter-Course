@@ -1,9 +1,10 @@
 /*
  * Project: Dual-Speed Sequential LED Blinker
- * Lesson:  Arduino Uno R4 WiFi LESSON 8: Using Variables in Arduino
+ * Lesson: Arduino Uno R4 WiFi LESSON 8: Using Variables in Arduino
  * Revision: 1.1 - Optimized Version
- * Date: 2026-02-08
+ * Author: SuperMechatronicEngineer
  * License: CC BY-NC-SA 4.0
+ * See README.md for full technical documentation.
  */
 
 // Hardware Mapping

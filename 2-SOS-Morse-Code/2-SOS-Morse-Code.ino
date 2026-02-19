@@ -3,6 +3,7 @@
  * Lesson: Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
  * Revision: 1.0 - Initial Release
  * Date: 2026-01-28
+ * Author: SuperMechatronicEngineer
  * License: CC BY-NC-SA 4.0
  * See README.md for full technical documentation.
  */

@@ -1,9 +1,11 @@
 /*
  * Project: Serial Monitor LED Status
- * Lesson:  Arduino Uno R4 WiFi LESSON 9: Using the Serial Port to Print to the Serial Monitor
+ * Lesson: Arduino Uno R4 WiFi LESSON 9: Using the Serial Port to Print to the Serial Monitor
  * Revision: 1.1 - Improved Version
  * Date: 2026-02-09
+ * Author: SuperMechatronicEngineer
  * License: CC BY-NC-SA 4.0
+ * See README.md for full technical documentation.
  */
 
 // Hardware Configuration

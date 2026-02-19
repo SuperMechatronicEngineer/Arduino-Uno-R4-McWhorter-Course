@@ -1,9 +1,11 @@
 /*
  * Project: Potentiometer LED Control - Linear vs. Exponential
- * Lesson:  Arduino Uno R4 WiFi LESSON 13: Dimmable LED Controlled by a Potentiometer
+ * Lesson: Arduino Uno R4 WiFi LESSON 13: Dimmable LED Controlled by a Potentiometer
  * Revision: 1.2 - Final Version
  * Date: 2026-02-09
+ * Author: SuperMechatronicEngineer
  * License: CC BY-NC-SA 4.0
+ * See README.md for full technical documentation.
  */
 
 // Pin Definitions

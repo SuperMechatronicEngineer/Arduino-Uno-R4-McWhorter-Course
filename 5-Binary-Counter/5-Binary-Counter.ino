@@ -1,8 +1,9 @@
 /*
  * Project: Binary counter
- * Lesson:  Arduino Uno R4 WiFi LESSON 5: Explaining How Computers Work Based On Binary Numbers
+ * Lesson: Arduino Uno R4 WiFi LESSON 5: Explaining How Computers Work Based On Binary Numbers
  * Revision: 1.0 - Initial Release
  * Date: 2026-02-06
+ * Author: SuperMechatronicEngineer
  * License: CC BY-NC-SA 4.0
  * See README.md for full technical documentation.
  */

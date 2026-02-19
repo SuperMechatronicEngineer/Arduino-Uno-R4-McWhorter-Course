@@ -1,8 +1,9 @@
 /*
  * Project: Binary counter
- * Lesson:  Arduino Uno R4 WiFi LESSON 6: Create a Binary Counter With Arduino
+ * Lesson: Arduino Uno R4 WiFi LESSON 6: Create a Binary Counter With Arduino
  * Revision: 1.0 - Initial Release
  * Date: 2026-02-07
+ * Author: SuperMechatronicEngineer
  * License: CC BY-NC-SA 4.0
  * See README.md for full technical documentation.
  */

@@ -42,8 +42,10 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 009 | [Using the Serial Port to Print to the Serial Monitor](https://www.youtube.com/watch?v=4N-Q28lTzqE&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=11) | [📁 LED Status](./9-Serial-Monitor/) | ✅ |
 | 010 | [Writing Analog Voltages With the Arduino](https://www.youtube.com/watch?v=lTzOvBYNo3U&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=11) | [📁 LED Breathing Effect](./10-Analog-Voltage-LED/) | ✅ |
 | 011 | [Pulse Width Modulation (PWM) Simulation of Analog Voltages](https://www.youtube.com/watch?v=4QUH5D_6XVc&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=13) | 📖 | ✅ |
-| 012 | [Arduino Uno R4 WiFi LESSON 12: Read Analog Voltages on the Arduino](https://www.youtube.com/watch?v=Vp5u_8KAzFw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=13) | [📁 LED Analog Voltage](./12-Read-Analog-Voltage-LED/) | ✅ |
-| 013 | [Arduino Uno R4 WiFi LESSON 13: Dimmable LED Controlled by a Potentiometer](https://www.youtube.com/watch?v=PXf51k0alGU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=15) | [📁 Linear vs Exponential LED Control](./13-LED-Lin-vs-Exp/) | ✅ |
+| 012 | [Read Analog Voltages on the Arduino](https://www.youtube.com/watch?v=Vp5u_8KAzFw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=13) | [📁 LED Analog Voltage](./12-Read-Analog-Voltage-LED/) | ✅ |
+| 013 | [Dimmable LED Controlled by a Potentiometer](https://www.youtube.com/watch?v=PXf51k0alGU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=15) | [📁 LED Control via Potentiometer](./13-LED-Lin-vs-Exp/) | ✅ |
+| 014 | [Read User Input From the Serial Monitor](https://www.youtube.com/watch?v=GpsP5zySI_A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=21) | [📁 LED Control via Serial Monitor ](./14-Read-LED-Brightness/) | ✅ |
+| 015 | [Controlling LED Based on User Input From Serial Monitor](https://www.youtube.com/watch?v=d-Ma3u7GngA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=17) | 📖 | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend

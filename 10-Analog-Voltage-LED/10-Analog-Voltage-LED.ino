@@ -1,9 +1,11 @@
 /*
  * Project: LED Breathing Effect
- * Lesson:  Arduino Uno R4 WiFi LESSON 10: Writing Analog Voltages With the Arduino
+ * Lesson: Arduino Uno R4 WiFi LESSON 10: Writing Analog Voltages With the Arduino
  * Revision: 1.2 - Final Version
  * Date: 2026-02-09
+ * Author: SuperMechatronicEngineer
  * License: CC BY-NC-SA 4.0
+ * See README.md for full technical documentation.
  */
 
 const int LED_PIN = 11;

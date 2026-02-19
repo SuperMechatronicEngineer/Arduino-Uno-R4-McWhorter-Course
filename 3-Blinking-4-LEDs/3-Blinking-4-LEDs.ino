@@ -1,9 +1,10 @@
 /*
  * Project: Simultaneous Blinking LEDs
- * Lesson:  Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
+ * Lesson: Arduino Uno R4 Wifi LESSON 3: Blink an LED With the Arduino
  * Revision: 1.0 - Initial Release
- * Date: 2026-02-08
+ * Author: SuperMechatronicEngineer
  * License: CC BY-NC-SA 4.0
+ * See README.md for full technical documentation.
  */
 
 const int ledPins[] = {2, 3, 4, 5}; 

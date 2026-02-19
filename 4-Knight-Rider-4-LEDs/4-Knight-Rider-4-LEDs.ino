@@ -1,8 +1,9 @@
 /*
  * Project: Knight Rider LED effect
- * Lesson:  Arduino Uno R4 Wifi LESSON 4: Building Clean and Neat Circuits on a Breadboard
+ * Lesson: Arduino Uno R4 Wifi LESSON 4: Building Clean and Neat Circuits on a Breadboard
  * Revision: 1.0 - Initial Release
  * Date: 2026-02-06
+ * Author: SuperMechatronicEngineer
  * License: CC BY-NC-SA 4.0
  * See README.md for full technical documentation.
  */

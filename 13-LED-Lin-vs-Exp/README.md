@@ -1,7 +1,7 @@
-# Lesson 013: Potentiometer LED Control (Linear vs Exponential)
+# Lesson 013: LED Control via Potentiometer (Linear vs Exponential)
 
 ## Project Info
-- **Project Name:** Manual LED Control: Linear vs Exponential Transfer Function
+- **Project Name:** LED Control via Potentiometer: Linear vs Exponential Transfer Function
 - **Lesson:** [Arduino Uno R4 WiFi LESSON 13: Dimmable LED Controlled by a Potentiometer](https://www.youtube.com/watch?v=PXf51k0alGU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=15) by Paul McWhorter
 - **Revision:** 1.2 (Final Version)
 - **Date:** 2026-02-12
@@ -25,7 +25,6 @@ The complete build and demonstration are available on Odysee:
 * **Connections:** Analog Pin A0 (Input), Digital Pin 11 (Linear Output), Digital Pin 10 (Exponential Output).
 
 ## Software Logic & Architecture
-The code focuses on precision, mathematical transparency, and telemetry optimization:
 * **Linear Transfer Function (Pin 11):** Implements a direct scaling formula $PWM = \text{rawValue} \cdot (255.0 / 1023.0)$, highlighting the constant scale factor between resolutions.
 * **Exponential Mapping (Pin 10):** Uses the formula $y = 2^{(x / 127.875)} - 1$ to create a natural brightness progression that compensates for the logarithmic nature of human vision.
 * **Timed Telemetry (Decoupled):** Data transmission is managed via a non-blocking timer (`millis()`) set to **200ms**. This ensures the Serial Monitor remains readable and independent of the input sampling rate, providing a professional monitoring interface for raw ADC, voltage, and dual PWM values.
