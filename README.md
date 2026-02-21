@@ -33,19 +33,20 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 001 | [Getting Started for Absolute Beginners](https://www.youtube.com/watch?v=S66Iwhk2V7A) | [📁 Blinking LED](./1-Blinking-LED/) | ✅ |
 | 002a | [How to Build Circuits With a Breadboard](https://www.youtube.com/watch?v=S1NJJRpWHpA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=2) | [📁 SOS Morse Code](./2-SOS-Morse-Code/) | ✅ |
 | 002b | [Calculating Current Limiting Resistor for LED](https://www.youtube.com/watch?v=_kpiHFGB_ys&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=3) | 📖 | ✅ |
-| 003 | [Blink an LED With the Arduino](https://www.youtube.com/watch?v=0SENIWPdPhQ&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=4) | [📁 4-LEDs Blink](./3-Blinking-4-LEDs/) | ✅ |
-| 004 | [Building Clean and Neat Circuits on a Breadboard](https://www.youtube.com/watch?v=JUptf53Ni0A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=5) | [📁 Knight Rider](./4-Knight-Rider-4-LEDs/) | ✅ |
+| 003 | [Blink an LED With the Arduino](https://www.youtube.com/watch?v=0SENIWPdPhQ&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=4) | [📁 4 LEDs Blinking](./3-Blinking-4-LEDs/) | ✅ |
+| 004 | [Building Clean and Neat Circuits on a Breadboard](https://www.youtube.com/watch?v=JUptf53Ni0A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=5) | [📁 Knight Rider LED Effect](./4-Knight-Rider-4-LEDs/) | ✅ |
 | 005 | [Explaining How Computers Work Based On Binary Numbers](https://www.youtube.com/watch?v=cSOpMpynXAI&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=6) | [📁 4-bit Binary Counter](./5-Binary-Counter/) | ✅ |
 | 006 | [Create a Binary Counter With Arduino](https://www.youtube.com/watch?v=KEtut8pzXZA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=9) | [📁 5-bit Binary Counter](./6-Binary-Counter-5-bit/) | ✅ |
 | 007 | [Doing Math in Binary](https://www.youtube.com/watch?v=w1C3OT1V3xA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=8) | 📖 | ✅ |
-| 008 | [Using Variables in Arduino](https://www.youtube.com/watch?v=Ucvwq5hFc3U&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=9) | [📁 2-LEDs Variables](./8-2-LEDs-blink/) | ✅ |
+| 008 | [Using Variables in Arduino](https://www.youtube.com/watch?v=Ucvwq5hFc3U&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=9) | [📁 Control 2 LEDs using Variables](./8-2-LEDs-blink/) | ✅ |
 | 009 | [Using the Serial Port to Print to the Serial Monitor](https://www.youtube.com/watch?v=4N-Q28lTzqE&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=11) | [📁 LED Status](./9-Serial-Monitor/) | ✅ |
 | 010 | [Writing Analog Voltages With the Arduino](https://www.youtube.com/watch?v=lTzOvBYNo3U&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=11) | [📁 LED Breathing Effect](./10-Analog-Voltage-LED/) | ✅ |
 | 011 | [Pulse Width Modulation (PWM) Simulation of Analog Voltages](https://www.youtube.com/watch?v=4QUH5D_6XVc&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=13) | 📖 | ✅ |
-| 012 | [Read Analog Voltages on the Arduino](https://www.youtube.com/watch?v=Vp5u_8KAzFw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=13) | [📁 LED Analog Voltage](./12-Read-Analog-Voltage-LED/) | ✅ |
-| 013 | [Dimmable LED Controlled by a Potentiometer](https://www.youtube.com/watch?v=PXf51k0alGU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=15) | [📁 LED Control via Potentiometer](./13-LED-Lin-vs-Exp/) | ✅ |
-| 014 | [Read User Input From the Serial Monitor](https://www.youtube.com/watch?v=GpsP5zySI_A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=21) | [📁 LED Control via Serial Monitor ](./14-Read-LED-Brightness/) | ✅ |
+| 012 | [Read Analog Voltages on the Arduino](https://www.youtube.com/watch?v=Vp5u_8KAzFw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=13) | [📁 Control LED Brightness via Potentiometer](./12-Read-Analog-Voltage-LED/) | ✅ |
+| 013 | [Dimmable LED Controlled by a Potentiometer](https://www.youtube.com/watch?v=PXf51k0alGU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=15) | [📁 Control LED Brightness via Potentiometer (lin vs exp)](./13-LED-Lin-vs-Exp/) | ✅ |
+| 014 | [Read User Input From the Serial Monitor](https://www.youtube.com/watch?v=GpsP5zySI_A&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=21) | [📁 Control LED Brightness via Serial Monitor ](./14-Read-LED-Brightness/) | ✅ |
 | 015 | [Controlling LED Based on User Input From Serial Monitor](https://www.youtube.com/watch?v=d-Ma3u7GngA&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=17) | 📖 | ✅ |
+| 016 | [Understanding If Statements and Conditionals](https://www.youtube.com/watch?v=H5OlCuUWEg8&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=19) | [📁 Control LEDs Status via Serial Monitor ](./16-Control-LED-Status/) | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
