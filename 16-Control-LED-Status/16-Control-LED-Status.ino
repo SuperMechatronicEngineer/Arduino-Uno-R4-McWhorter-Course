@@ -35,7 +35,7 @@ void setup() {
 void loop() {
   if (Serial.available() > 0) {
     // Safety buffer for character arrival
-    delay(20); 
+    delay(50); 
 
     // Read the content from the buffer
     String input = Serial.readString();

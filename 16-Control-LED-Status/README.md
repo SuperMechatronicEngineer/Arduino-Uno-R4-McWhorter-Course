@@ -14,7 +14,7 @@ The system utilizes a **string processing logic** to interpret user commands. By
 
 ## 📺 Video Documentation
 The complete build and demonstration are available on Odysee:
-- **Watch here:** [Arduino UNO R4 WiFi - Control 3 LEDs via Serial Monitor](https://odysee.com/@SuperMechatronicEngineer:8/016-LEDs-Control-Serial:8)
+- **Watch here:** [Arduino UNO R4 WiFi - Control 3 LEDs Status via Serial Monitor](https://odysee.com/@SuperMechatronicEngineer:8/016-LEDs-Control-Serial:8)
 
 ## Technical Details
 * **Target Hardware:** Arduino UNO R4 WiFi.
