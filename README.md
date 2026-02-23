@@ -49,7 +49,8 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 016 | [Understanding If Statements and Conditionals](https://www.youtube.com/watch?v=H5OlCuUWEg8&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=19) | [📁 Control LEDs Status via Serial Monitor ](./16-Control-LED-Status/) | ✅ |
 | 017 | [Control Multiple LED from the Serial Monitor](https://www.youtube.com/watch?v=Ai7uqYHt_Yc&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=19) | [📁 Control LEDs Brightness via Serial Monitor ](./17-Control-LED-Status-bis/) | ✅ |
 | 018 | [Controlling RGB LED with an Arduino](https://www.youtube.com/watch?v=ASHBCGGeEPk&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=19) | [📁 Control an RGB LED via Serial Monitor ](./18-RGB-LED-colors/) | ✅ |
-| 019 | [Mixing Colors with an RGB LED](https://www.youtube.com/watch?v=YniHyGypG9w&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=21) | [📁 Control an RGB LED lightning Cycle via Serial Monitor ](./19-RGB-LED-cycle/) | ✅ |
+| 019 | [Mixing Colors with an RGB LED](https://www.youtube.com/watch?v=YniHyGypG9w&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=21) | [📁 RGB LED lightning Cycle via Serial Monitor (FOR loop)](./19-RGB-LED-cycle/) | ✅ |
+| 020 | [For Loops in Arduino](https://www.youtube.com/watch?v=CZh8QB26jjU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=22) | [📁 RGB LED lightning Cycle via Serial Monitor (WHILE LOOP)](./20-RGB-LED-cycle-while/) | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend

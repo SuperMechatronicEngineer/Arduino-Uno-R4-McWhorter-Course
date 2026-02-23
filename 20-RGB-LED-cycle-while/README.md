@@ -1,8 +1,8 @@
-# Lesson 019: Control an RGB LED Lighting Cycle via Serial Control using a FOR LOOP
+# Lesson 020: Control an RGB LED Lighting Cycle via Serial Control using a WHILE LOOP
 
 ## Project Info
 - **Project Name:** RGB LED Lighting Cycle using a WHILE LOOP
-- **Lesson:** [Arduino Uno R4 WiFi LESSON 19: Mixing Colors with an RGB LED](https://www.youtube.com/watch?v=YniHyGypG9w&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=21) by Paul McWhorter
+- **Lesson:** [Arduino Uno R4 WiFi LESSON 20: For Loops in Arduino](https://www.youtube.com/watch?v=CZh8QB26jjU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=22) by Paul McWhorter
 - **Revision:** 1.2 (Final Version)
 - **Date:** 2026-02-23
 - **Author:** SuperMechatronicEngineer
@@ -10,7 +10,7 @@
 ## Project Description
 This project implements a numeric-based interface using the **Serial Monitor** to control an RGB LED on an Arduino UNO R4 WiFi. The core objective is to allow the user to specify a precise number of lighting cycles (Red -> Green -> Blue) through text-based numeric commands.
 
-The program operates in a standby mode until an input is received. Once a value is provided, the system validates the data to ensure it is a valid integer within the safety range of **0 to 100**. This version specifically focuses on manual iteration control using a **for loop** structure.
+The program operates in a standby mode until an input is received. Once a value is provided, the system validates the data to ensure it is a valid integer within the safety range of **0 to 100**. This version specifically focuses on manual iteration control using a **while loop** structure.
 
 ## 📺 Video Documentation
 The complete build and demonstration are available on Odysee:
@@ -29,7 +29,7 @@ The complete build and demonstration are available on Odysee:
 ## Software Logic & Architecture
 * **Robust Input Validation:** The system features a "fail-safe" logic that checks the input character-by-character using `isDigit()`. It distinguishes between valid integers, out-of-range values, and non-numeric strings, preventing undefined behavior.
 * **Responsive Command Interface:** To maximize responsiveness, the architecture uses `while (Serial.available() == 0)` to wait for input. Combined with `Serial.setTimeout(10)`, this eliminates the default serial lag, triggering the lighting sequence instantly upon pressing Enter.
-* **Dynamic Cycle Execution:** The firmware translates the user's numeric input into a controlled `for` loop. Each cycle follows a strict sequence (R -> G -> B -> Off) with precisely timed delays, providing clear visual feedback of the system's status.
+* **Dynamic Cycle Execution (While Loop):** Unlike a standard for-loop, this firmware utilizes a **while loop** with a manually managed counter. The program executes the sequence (R -> G -> B -> Off) and increments the counter only after each full cycle completion.
 
 ## License & Credits
 - **Original Tutorial:** Paul McWhorter (TopTechBoy).
