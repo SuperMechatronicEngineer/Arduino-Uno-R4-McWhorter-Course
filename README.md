@@ -51,6 +51,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 018 | [Controlling RGB LED with an Arduino](https://www.youtube.com/watch?v=ASHBCGGeEPk&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=19) | [📁 Control an RGB LED via Serial Monitor ](./18-RGB-LED-colors/) | ✅ |
 | 019 | [Mixing Colors with an RGB LED](https://www.youtube.com/watch?v=YniHyGypG9w&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=21) | [📁 RGB LED lightning Cycle via Serial Monitor (FOR loop)](./19-RGB-LED-cycle/) | ✅ |
 | 020 | [For Loops in Arduino](https://www.youtube.com/watch?v=CZh8QB26jjU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=22) | [📁 RGB LED lightning Cycle via Serial Monitor (WHILE LOOP)](./20-RGB-LED-cycle-while/) | ✅ |
+| 021 | [Understanding While Loops](https://www.youtube.com/watch?v=Cw_i7l_RFVE&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=22) | 📖 | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
