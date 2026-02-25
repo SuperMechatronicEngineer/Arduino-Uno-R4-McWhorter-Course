@@ -55,6 +55,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 022 | [Control a Servo With Your Arduino](https://www.youtube.com/watch?v=mDyQkTIzDsc&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=24) | [📁 Servo Motor control using a Potentiometer](./22-Servo-Control/) | ✅ |
 | 023 | [Control a Servo with a Potentiometer](https://www.youtube.com/watch?v=R1qE2MCA7Tc&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=24) | 📖 | ✅ |
 | 024 | [Make a Button Switch With a Pullup Resistor](https://www.youtube.com/watch?v=Rg9WvA8ovik&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=26) | [📁 LED Toggling using a Push Button](./24-Button-Switch/) | ✅ |
+| 025 | [Make a Toggle Switch with Button Switch](https://www.youtube.com/watch?v=Is8YhpQVVX8&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=26) | [📁 RGB LED Control using Push Buttons](./25-RGB-LED-Buttons-Control/) | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
