@@ -59,6 +59,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 026 | [Control RGB LED Color with Pushbuttons](https://www.youtube.com/watch?v=9shusX7fe2c&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=28) | 📖 | ✅ |
 | 027 | [Using Internal Pullup Resistors on Arduino](https://www.youtube.com/watch?v=8YFQAQqkHaI&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=29) | [📁 RGB LED Control using Push Buttons and Internal Pull-ups](./27-RGB-LED-Buttons-Control-bis/) | ✅ |
 | 028 | [Using the LED Matrix on the Arduino R4 WiFi](https://www.youtube.com/watch?v=P-wJEo8hUCg&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=31) | [📁 Bouncing Pixel](./28-Bouncing-Ball/) | ✅ |
+| 029 | [Create a Bouncing Pixel on the R4 WiFi LED Matrix](https://www.youtube.com/watch?v=QrAduIMIhxE&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=34) | [📁 Single Player Pong Game](./29-Pong-Game/) | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
