@@ -63,6 +63,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 030 | [Create a One Player Pong Game on the R4 WiFi Matrix](https://www.youtube.com/watch?v=kiRX8chd56Q&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=31) | 📖 | ✅ |
 | 031 | [Measuring Temperature and Humidity Using the DHT11](https://www.youtube.com/watch?v=AXLgZzLfwI8&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=33) | [📁 Interactive DHT22 Climate Monitor](./31-DHT22/) | ✅ |
 | 032 | [Show Temperature and Humidity on the LED Matrix](https://www.youtube.com/watch?v=eu8N4_dykBw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=33) | 📖 | ✅ |
+| 033 | [Using a Photoresistor in a Project](https://www.youtube.com/watch?v=AEJ-j7EDyZ4&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=35) | [📁 Photoresistor Controlled Servo Actuator](./33-Photoresistor-and-Servo/) | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
