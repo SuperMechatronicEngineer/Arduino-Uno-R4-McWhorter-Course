@@ -1,6 +1,6 @@
 /*
- * Project: Dynamic Grades Acquisition System
- * Arduino Uno R4 WiFi LESSON 35: Understanding and Using Arrays in Projects
+ * Project: Advanced Grade Analytics & Sorting System
+ * Arduino Uno R4 WiFi LESSON 36: Finding Average of an Array of Numbers on Arduino
  * Revision: 1.2 - Final Version
  * Date: 2026-03-08
  * Author: SuperMechatronicEngineer
@@ -13,13 +13,18 @@
 // Global variable to store the sanitized input string
 String validatedInput = "";
 
+// Function Prototype
+void bubbleSortDescending(float arr[], int n);
+bool isValidNumericInput(bool allowFloat);
+void clearBuffer();
+
 void setup() {
   Serial.begin(115200);
   Serial.setTimeout(100); 
   while (!Serial); 
 
   Serial.println(F("=============================================="));
-  Serial.println(F("         SAFE GRADE STATISTICS SYSTEM        "));
+  Serial.println(F("      SAFE GRADE STATISTICS & SORTING       "));
   Serial.println(F("=============================================="));
   Serial.println(F("Status: Ready. Acceptable Grade Range: 0 - 100"));
 }
@@ -27,12 +32,11 @@ void setup() {
 void loop() {
   int numGrades = 0;
 
-  // 1. INPUT VALIDATION: TOTAL NUMBER OF STUDENTS (Integers Only)
+  // 1. INPUT VALIDATION: TOTAL NUMBER OF STUDENTS
   while (numGrades <= 0) {
     Serial.println(F("\nHow many student grades do you want to process?"));
     while (Serial.available() == 0); 
 
-    // 'false' means NO decimal points allowed for student count
     if (isValidNumericInput(false)) { 
       numGrades = validatedInput.toInt();
     } else {
@@ -50,10 +54,9 @@ void loop() {
     return; 
   }
 
-  // 3. DATA ACQUISITION WITH STRICT VALIDATION (Decimals Allowed)
+  // 3. DATA ACQUISITION
   for (int i = 0; i < numGrades; i++) {
     float tempGrade = -1.0; 
-
     while (tempGrade < 0 || tempGrade > 100) {
       Serial.print(F("Enter grade (0-100) for student #"));
       Serial.print(i + 1);
@@ -61,11 +64,11 @@ void loop() {
 
       while (Serial.available() == 0);
 
-      // 'true' means ONE decimal point is allowed for grades
       if (isValidNumericInput(true)) { 
         tempGrade = validatedInput.toFloat();
       } else {
         Serial.println(F("\n[!] Error: Invalid characters or scientific notation ('e')."));
+        // Note: tempGrade remains at its initial value (-1.0)
       }
       clearBuffer();
 
@@ -73,77 +76,95 @@ void loop() {
         Serial.println(F("Error: Grade must be between 0.0 and 100.0."));
       }
     }
-    
     gradeList[i] = tempGrade;
     Serial.println(gradeList[i], 2); 
   }
 
-  // 4. DATA RECAP
-  Serial.println(F("\n--- Entered Grades Recap ---"));
+  // 4. SORTING (Descending Order)
+  // Call the sorting function before displaying results
+  bubbleSortDescending(gradeList, numGrades);
+
+  // 5. DATA RECAP (Now Sorted)
+  Serial.println(F("\n--- Sorted Grades (Highest to Lowest) ---"));
   for (int i = 0; i < numGrades; i++) {
-    Serial.print(F("Student #"));
+    Serial.print(F("Rank #"));
     Serial.print(i + 1);
     Serial.print(F(": "));
     Serial.println(gradeList[i], 2);
   }
 
-  // 5. STATISTICAL ANALYSIS (Scanning Algorithm)
+  // 6. STATISTICAL ANALYSIS
   float sum = 0;
-  float maxGrade = -1.0;
-  float minGrade = 101.0;
+  // After sorting, the Max is at position [0] and the Min is at [n-1]
+  float maxGrade = gradeList[0];
+  float minGrade = gradeList[numGrades - 1];
 
   for (int i = 0; i < numGrades; i++) {
-    float current = gradeList[i];
-    sum += current;
-    if (current > maxGrade) maxGrade = current;
-    if (current < minGrade) minGrade = current;
+    sum += gradeList[i];
   }
 
-  // 6. FINAL RESULTS
+  // 7. FINAL RESULTS
   Serial.println(F("\n--- FINAL STATISTICS ---"));
   Serial.print(F("Average Score: ")); Serial.println(sum / numGrades, 2);
   Serial.print(F("Highest Score: ")); Serial.println(maxGrade, 2);
   Serial.print(F("Lowest Score:  ")); Serial.println(minGrade, 2);
 
-  // 7. HEAP MEMORY CLEANUP
+  // 8. HEAP MEMORY CLEANUP
   delete[] gradeList;
 
   Serial.println(F("\n---------------------------------------------"));
-  Serial.println(F("Session complete. Heap memory released."));
   Serial.println(F("Type ANY CHARACTER to restart a new session..."));
   while (Serial.available() == 0); 
   clearBuffer(); 
 }
 
-/**
- * Custom Buffer Validator
- * Scans the entire input string to ensure it contains only digits and (optionally) one dot.
- * Effectively blocks 'e', 'E', '-', '+', and alphabetic noise.
+/*
+ * Sorts an array of floats in descending order (Highest to Lowest).
+ * Uses the Bubble Sort algorithm with an "Early-Exit" optimization.
  */
+void bubbleSortDescending(float arr[], int n) {
+
+  // Outer loop: Manages the number of passes through the array.
+  // Each pass ensures the smallest remaining value "bubbles" to the end.
+  for (int i = 0; i < n - 1; i++) {
+    bool swapped = false;
+
+    // Inner loop: Compares adjacent elements.
+    // The range decreases by 'i' because the last 'i' elements are already sorted.
+    for (int j = 0; j < n - i - 1; j++) {
+      
+      // Inverted condition: if the current element is LESS than the next one, swap them.
+      if (arr[j] < arr[j + 1]) { 
+        float temp = arr[j];
+        arr[j] = arr[j + 1];
+        arr[j + 1] = temp;
+        
+        // Mark that a swap occurred in this pass.
+        swapped = true;
+      }
+    }
+
+    // Optimization: If no two elements were swapped during a pass,
+    // the array is already sorted, and we can exit the loop early.
+    if (!swapped) break; 
+  }
+}
+
 bool isValidNumericInput(bool allowFloat) {
-  delay(10); // Short delay to ensure buffer is full
-  
+  delay(10); 
   validatedInput = Serial.readString();
   validatedInput.trim(); 
 
   if (validatedInput.length() == 0) return false;
-
   bool dotFound = false;
-
   for (uint16_t i = 0; i < validatedInput.length(); i++) {
     char c = validatedInput.charAt(i);
-
-    // Standard digit check
     if (isDigit(c)) continue;
-
-    // Decimal point logic
     if (allowFloat && c == '.') {
-      if (dotFound) return false; // Reject if a second dot is found
+      if (dotFound) return false;
       dotFound = true;
       continue;
     }
-
-    // Reject anything else (including scientific 'e')
     return false;
   }
   return true; 

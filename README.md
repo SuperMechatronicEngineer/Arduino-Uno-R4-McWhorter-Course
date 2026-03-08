@@ -66,6 +66,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 033 | [Using a Photoresistor in a Project](https://www.youtube.com/watch?v=AEJ-j7EDyZ4&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=35) | [📁 Photoresistor Controlled Servo Actuator](./33-Photoresistor-and-Servo/) | ✅ |
 | 034 | [Controlling Servo with Photo Resistor](https://www.youtube.com/watch?v=rP0Go2EV358&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=35) | 📖 | ✅ |
 | 035 | [Understanding and Using Arrays in Projects](https://www.youtube.com/watch?v=HWkQHzCNdx8&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=38) | [📁 Dynamic Grades Acquisition System](./35-Array-Grades/) | ✅ |
+| 036 | [Finding Average of an Array of Numbers on Arduino](https://www.youtube.com/watch?v=5_qZwNqDg-Y&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=40) | [📁 Advanced Grade Analytics & Sorting System](./36-Array-Grades-Sorting/) | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
