@@ -69,6 +69,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 036 | [Finding Average of an Array of Numbers on Arduino](https://www.youtube.com/watch?v=5_qZwNqDg-Y&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=40) | [📁 Advanced Grade Analytics & Sorting System](./36-Array-Grades-Sorting/) | ✅ |
 | 037 | [Sorting a List of Grades in an Array in Arduino](https://www.youtube.com/watch?v=zgkT4BY6mZY&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=38) | 📖 | ✅ |
 | 038 | [Understanding Scope, Global and Local Variables](https://www.youtube.com/watch?v=oaTaE_Ft6WQ&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=40) | 📖 | ✅ |
+| 039 | [Arduino Functions Explained](https://www.youtube.com/watch?v=8_KNyTB11dI&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=40) | 📖 | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
