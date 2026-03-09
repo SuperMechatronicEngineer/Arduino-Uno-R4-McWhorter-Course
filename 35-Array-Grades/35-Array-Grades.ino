@@ -1,6 +1,6 @@
 /*
  * Project: Dynamic Grades Acquisition System
- * Arduino Uno R4 WiFi LESSON 35: Understanding and Using Arrays in Projects
+ * Lesson: Arduino Uno R4 WiFi LESSON 35: Understanding and Using Arrays in Projects
  * Revision: 1.2 - Final Version
  * Date: 2026-03-08
  * Author: SuperMechatronicEngineer

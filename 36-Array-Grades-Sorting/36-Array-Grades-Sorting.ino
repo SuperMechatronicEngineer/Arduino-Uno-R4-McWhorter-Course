@@ -1,6 +1,6 @@
 /*
  * Project: Advanced Grade Analytics & Sorting System
- * Arduino Uno R4 WiFi LESSON 36: Finding Average of an Array of Numbers on Arduino
+ * Lesson: Arduino Uno R4 WiFi LESSON 36: Finding Average of an Array of Numbers on Arduino
  * Revision: 1.2 - Final Version
  * Date: 2026-03-08
  * Author: SuperMechatronicEngineer
