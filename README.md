@@ -71,6 +71,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 038 | [Understanding Scope, Global and Local Variables](https://www.youtube.com/watch?v=oaTaE_Ft6WQ&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=40) | 📖 | ✅ |
 | 039 | [Arduino Functions Explained](https://www.youtube.com/watch?v=8_KNyTB11dI&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=40) | 📖 | ✅ |
 | 040 | [Using Arduino Functions with Local Variables Explained](https://www.youtube.com/watch?v=SeAT_sELVdw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=41) | [📁 Smart Dimmer: Exponential LED Control](./40-LED-functions/) | ✅ |
+| 041 | [Controlling LED Brightness with Functions](https://www.youtube.com/watch?v=MAXnBCUmFH0&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=43) | 📖 | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
