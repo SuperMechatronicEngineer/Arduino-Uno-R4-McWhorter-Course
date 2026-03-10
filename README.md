@@ -73,6 +73,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 040 | [Using Arduino Functions with Local Variables Explained](https://www.youtube.com/watch?v=SeAT_sELVdw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=41) | [📁 Smart Dimmer: Exponential LED Control](./40-LED-functions/) | ✅ |
 | 041 | [Controlling LED Brightness with Functions](https://www.youtube.com/watch?v=MAXnBCUmFH0&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=43) | 📖 | ✅ |
 | 042 | [Arduino Transistor Tutorial](https://www.youtube.com/watch?v=uzULiDi1VQg&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=43) | 📖 | ✅ |
+| 043 | [Incorporating a PIR Motion Sensor Into Your Arduino Project](https://www.youtube.com/watch?v=gBZaKkTqTC0&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=44) | 📖 | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
