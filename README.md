@@ -74,6 +74,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 041 | [Controlling LED Brightness with Functions](https://www.youtube.com/watch?v=MAXnBCUmFH0&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=43) | 📖 | ✅ |
 | 042 | [Arduino Transistor Tutorial](https://www.youtube.com/watch?v=uzULiDi1VQg&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=43) | 📖 | ✅ |
 | 043 | [Incorporating a PIR Motion Sensor Into Your Arduino Project](https://www.youtube.com/watch?v=gBZaKkTqTC0&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=44) | 📖 | ✅ |
+| 044 | [Playing Music On Your Arduino With a Passive Buzzer](https://www.youtube.com/watch?v=lK-tmgaWrLg&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=46) | [📁 PIR Motion Security Alarm](./44-PIR-and-Buzzer/) | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
