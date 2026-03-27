@@ -75,6 +75,7 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 042 | [Arduino Transistor Tutorial](https://www.youtube.com/watch?v=uzULiDi1VQg&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=43) | 📖 | ✅ |
 | 043 | [Incorporating a PIR Motion Sensor Into Your Arduino Project](https://www.youtube.com/watch?v=gBZaKkTqTC0&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=44) | 📖 | ✅ |
 | 044 | [Playing Music On Your Arduino With a Passive Buzzer](https://www.youtube.com/watch?v=lK-tmgaWrLg&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=46) | [📁 PIR Motion Security Alarm](./44-PIR-and-Buzzer/) | ✅ |
+| 047 | [Bidirectional DC Motor Control With the TA6586 Motor Controller](https://www.youtube.com/watch?v=lvqnM10uWLU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=54) | [📁 DC Motor Control](./47-TB6612FNG-DC-Motor-Controller/) | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
