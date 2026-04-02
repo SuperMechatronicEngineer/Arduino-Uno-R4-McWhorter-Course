@@ -77,6 +77,8 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 044 | [Playing Music On Your Arduino With a Passive Buzzer](https://www.youtube.com/watch?v=lK-tmgaWrLg&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=46) | [📁 PIR Motion Security Alarm](./44-PIR-and-Buzzer/) | ✅ |
 | 047 | [Bidirectional DC Motor Control With the TA6586 Motor Controller](https://www.youtube.com/watch?v=lvqnM10uWLU&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=54) | [📁 DC Motor Control](./47-TB6612FNG-DC-Motor-Controller/) | ✅ |
 | 048 | [How to Control DC Motor and Speed and Direction with Arduino](https://www.youtube.com/watch?v=c0aVlxRTRII&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=48) | 📖 | ✅ |
+| 049 | [Arduino Stepper Motor Control](https://www.youtube.com/watch?v=9yq4LZWyWc8&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=51) | [📁 Unipolar Stepper Motor Control](./49-ULN2003-Stepper-Motor/) | ✅ |
+| 050 | [Controlling Stepper Motors with Push Buttons on Arduino](https://www.youtube.com/watch?v=WDTMJvXK4zw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=52) | 📖 | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
