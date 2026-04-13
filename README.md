@@ -79,6 +79,8 @@ This course is designed for absolute beginners, with a "step-by-step" approach t
 | 048 | [How to Control DC Motor and Speed and Direction with Arduino](https://www.youtube.com/watch?v=c0aVlxRTRII&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=48) | 📖 | ✅ |
 | 049 | [Arduino Stepper Motor Control](https://www.youtube.com/watch?v=9yq4LZWyWc8&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=51) | [📁 Unipolar Stepper Motor Control](./49-ULN2003-Stepper-Motor/) | ✅ |
 | 050 | [Controlling Stepper Motors with Push Buttons on Arduino](https://www.youtube.com/watch?v=WDTMJvXK4zw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=52) | 📖 | ✅ |
+| 051 | [Using the HC-SR04 Ultrasonic Sensor for Echolocation](https://www.youtube.com/watch?v=BDmAOI6X31o&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=64) | [📁 HC-SR04 Ultrasonic Sensor](./51-HC-SR04/) | ✅ |
+| 052 | [HC-SR04 Ultrasonic Distance Sensor Project](https://www.youtube.com/watch?v=H-ppPNYqohw&list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex&index=52) | 📖 | ✅ |
 | ... | ... | ... | ... |
 
 ### 🔑 Legend
